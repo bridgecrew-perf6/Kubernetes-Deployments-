@@ -1,0 +1,5 @@
+Troubleshooting Scheduling in Kubernetes Deployments
+
+PROBLEM STATEMENT:
+You are a DevOps engineer at siliconvalley company, which is an e-gaming platform geared towards puzzle and logic games. You've just been alerted that there's an issue with the deployment of a new web service to a staging cluster. The pods are stuck in a 'Pending' state. You need to investigate why the pods are not deploying and resolve the issue so the new web service (You can consider Nginx as it is most favourable for gaming appa, alternatively you can consider Apache as well) can be assessed in the staging environment. There are a number of other resources currently active in the cluster, some are still needed, and others are not. 
+The Infrastructure diagram has been attached for your reference so that you can set up completely and fix the issue.
